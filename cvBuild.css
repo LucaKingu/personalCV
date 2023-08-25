@@ -43,6 +43,23 @@ body
     border-bottom: 1px solid rgba(0,0,0,0.25);
 }
 
+.profileText .imgBox{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profileText .imgBox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .container .right_side{
     position: relative;
     background: #0D98BA;
