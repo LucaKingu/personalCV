@@ -34,6 +34,15 @@ body
     padding: 40px;
 }
 
+.profileText{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(0,0,0,0.25);
+}
+
 .container .right_side{
     position: relative;
     background: #0D98BA;
