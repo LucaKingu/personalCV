@@ -104,6 +104,11 @@ body
     font-size: 0.8em;
 }
 
+.education{
+    padding-top: 20px;
+    border-top: 1px solid rgba(255,255,255,0.25);
+}
+
 .education h5{
     color: #0D98BA;
     font-weight: 900;
@@ -118,6 +123,28 @@ body
 .education h4{
     color: #FFF;
     font-weight: 300;
+}
+
+.languages{
+    padding-top: 20px;
+    border-top: 1px solid rgba(255,255,255,0.25);
+}
+
+.languages .percent{
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background: #FFF;
+    display: block;
+    margin-top: 5px;
+}
+
+.languages .percent div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: darkseagreen;
 }
 
 .container .right_side{
