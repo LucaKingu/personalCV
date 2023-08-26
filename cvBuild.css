@@ -101,8 +101,10 @@ body
 
 .ContactInfo ul li span{
     color: #FFF;
-    font-size: 1em;
+    font-size: 0.8em;
 }
+
+
 
 .container .right_side{
     position: relative;
