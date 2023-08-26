@@ -152,3 +152,40 @@ body
     background: #0D98BA;
     padding: 40px;
 } 
+
+.about{
+    margin-bottom: 50px;
+}
+
+.about:last-child{
+    margin-bottom: 0;
+}
+
+.title2{
+    text-transform: uppercase;
+    border-bottom:1px solid rgba(255,255,255,0.25);
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+p{
+    color: black;
+}
+
+.about .text{
+    margin-bottom: 20px;
+    border-bottom:3px solid rgba(255,255,255,0.25);
+}
+
+.about h4{
+    border: 0.8px solid #ff4500;
+    border-width: 2px;
+    border-radius: 30px;
+    padding: 5px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.about .box p{
+    margin-top: 20px;
+}
