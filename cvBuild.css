@@ -104,7 +104,21 @@ body
     font-size: 0.8em;
 }
 
+.education h5{
+    color: #0D98BA;
+    font-weight: 900;
+    font-size: 1.05em;
+}
 
+.education h4:nth-child(2){
+    color: #FFF;
+    font-weight: 600;
+}
+
+.education h4{
+    color: #FFF;
+    font-weight: 300;
+}
 
 .container .right_side{
     position: relative;
