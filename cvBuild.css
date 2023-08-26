@@ -30,7 +30,7 @@ body
 
 .container .left_side{
     position: relative;
-    background: #ff4500;
+    background: #F69420;
     padding: 40px;
 }
 
@@ -61,7 +61,7 @@ body
 }
 
 .profileText h2{
-    color: black;
+    color: #FFF;
     font-size: 1.5em;
     margin-top: 20px;
     text-transform: uppercase;
@@ -137,6 +137,7 @@ body
     background: #FFF;
     display: block;
     margin-top: 5px;
+    border-radius: 10px;
 }
 
 .languages .percent div{
@@ -145,6 +146,7 @@ body
     left: 0;
     height: 100%;
     background: darkseagreen;
+    border-radius: 10px;
 }
 
 .container .right_side{
@@ -178,14 +180,57 @@ p{
 }
 
 .about h4{
-    border: 0.8px solid #ff4500;
+    border: 0.8px solid #FFA500;
     border-width: 2px;
     border-radius: 30px;
-    padding: 5px;
+    padding: 8px;
     text-transform: uppercase;
     color: black;
 }
 
+
+.about h5{
+    padding-bottom: 10px;
+}
+
 .about .box p{
     margin-top: 20px;
+}
+
+.skills .box{
+    position: relative;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills .box h4{
+    text-transform: uppercase;
+}
+
+.skills .box .percent{
+    position: relative;
+    width: 100%;
+    height: 10px;
+    background: #FFF;
+    border-radius: 10px;
+}
+
+.skills .box .percent div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: darkseagreen;
+    border-radius: 10px;
+}
+
+.interest{
+    padding-top: 50px;
+}
+
+.interest h2{
+    border-bottom:3px solid rgba(255,255,255,0.25);
 }
