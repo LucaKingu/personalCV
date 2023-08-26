@@ -188,6 +188,10 @@ p{
     color: black;
 }
 
+.right_side p{
+    font-weight: 700;
+}
+
 
 .about h5{
     padding-bottom: 10px;
