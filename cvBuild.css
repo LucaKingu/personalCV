@@ -114,8 +114,9 @@ body
     font-weight 600;
 }
 
-#Erasmus{
-    color:aqua;
+#erasmus{
+    color:darkmagenta;
+    font-size: smaller;
     font-weight: 700;
 }
 
