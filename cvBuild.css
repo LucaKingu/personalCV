@@ -110,9 +110,13 @@ body
 }
 
 .education h5{
-    color: #0D98BA;
-    font-weight: 900;
-    font-size: 1.05em;
+    color:#FFF
+    font-weight 600;
+}
+
+#Erasmus{
+    color:aqua;
+    font-weight: 700;
 }
 
 .education h4:nth-child(2){
@@ -250,7 +254,7 @@ p{
 }
 
 .interest ul li .fa{
-    width: 20px;
+    width: 28px;
 }
 
 /*
