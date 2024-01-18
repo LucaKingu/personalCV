@@ -8,3 +8,4 @@
 
 
 The contents of the CV will not be updated according to new qualifications/skills, as I mentioned It is not my official CV.
+Any helpful feedback is always welcome.
